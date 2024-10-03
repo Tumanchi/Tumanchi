@@ -1,3 +1,4 @@
+git clone https://github.com/Tumanchi/Tumanchi.git
 - 👋 Hi, I’m @Tumanchi
 - 👀 I’m interested in coding and discovering new things for myself
 - 🌱 I’m currently learning java script
