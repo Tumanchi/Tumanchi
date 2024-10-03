@@ -1,8 +1,8 @@
 git clone https://github.com/Tumanchi/Tumanchi.git
-- 👋 Hi, I’m @Tumanchi
-- 👀 I’m interested in coding and discovering new things for myself
-- 🌱 I’m currently learning java script
-- 📫 How to reach me whatsapp 
+print("Hello, I'm Tumanchi!")
+print("Мне интересно кодировать и открывать новые вещи.")
+print("Вы можете связаться со мной через WhatsApp.")
+ 
 
 <!---
 Tumanchi/Tumanchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
